@@ -8,6 +8,16 @@ var seleccionar = "Seleccionar";
 var updatear = "Update";
 var mensaje;
 var mysql = require('db-mysql');
+var fs = require("fs");
+file = fs.openSync("bitacoraservidor.txt", "w+");
+
+
+function Bitacora(txt) {
+  txt = new Date() + " " + txt + "\r\n";
+  fs.write(file, txt, null);
+  console.log(txt);
+}
+
 
 var DB = new mysql.Database({
   hostname: 'localhost',
@@ -18,61 +28,68 @@ var DB = new mysql.Database({
 var conn;
 DB.connect(function(error) {
   if (error) {
-    console.log('ERROR CONEXION: ' + error);
+    Bitacora('ERROR CONEXION: ' + error);
   }
   conn = this;
 });
 
 
-function protComunicacion(msj, listo) {
+function protComunicacion(msj, socket, listo) {
+  socket1 = socket.remoteAddress;
+  socket2 = socket.remotePort;
+
+  direccion_port = "Direccion Cliente: " + socket1 + " Puerto Cliente: " + socket2;
 
   var ArrayMsj = msj.trim().split(',');
   if (ArrayMsj[0].toString() == borrar) {
     var sql2 = "DELETE FROM curso WHERE (id = '" + ArrayMsj[1] + "')";
-    console.log(sql2)
+    Bitacora(direccion_port + sql2)
     conn.query(sql2).execute(function(error) {
 
       if (error) {
-        console.log("ERROR: " + error);
+        Bitacora("ERROR: " + error);
+
       }
     });
-    console.log("delete");
+    Bitacora(direccion_port +  "delete");
     listo("Tu registro ha sido borrado");
+
+
     return;
   }
   if (ArrayMsj[0].toString() == crear) {
     var id = parseInt(1000000 * Math.random());
 
     var sql = "INSERT INTO curso VALUES ('" + id + "','" + ArrayMsj[1] + "','" + ArrayMsj[2] + "','" + ArrayMsj[3] + "','" + ArrayMsj[4] + "')";
-    console.log(sql)
+    Bitacora(direccion_port + sql)
     conn.query(sql).execute(function(error) {
 
       if (error) {
-        console.log("ERROR: " + error);
+        Bitacora("ERROR: " + error);
 
       }
     });
-    console.log("insert");
+    Bitacora(direccion_port +  " insert");
     listo("Tu id del registro es  " + id);
     return;
   }
   if (ArrayMsj[0].toString() == seleccionar) {
-    var sql3 = "SELECT * FROM curso WHERE (id ='" + ArrayMsj[1]+"')";
-    console.log(sql3);
+    var sql3 = "SELECT * FROM curso WHERE (id ='" + ArrayMsj[1] + "')";
+    Bitacora(direccion_port + sql3);
     conn.query(sql3).execute(function(error, rows, cols) {
 
       if (error) {
-        console.log("ERROR: " + error);
+        Bitacora("ERROR: " + error);
         return;
       }
-      console.log(rows.length + " ROWS found");
+      Bitacora(rows.length + " ROWS found");
       listo(JSON.stringify(rows));
     });
-    console.log("select");
+    Bitacora(direccion_port + " select");
     return;
   }
-  listo("error");
-  console.log("error")
+  listo("Comando Invalido");
+  Bitacora(direccion_port + " comando invalido")
 
 }
 
@@ -86,18 +103,20 @@ var s = net.Server(function(socket) {
 
     for (var i = 0; i < sockets.length; i++) {
       if (socket != sockets[i]) {
-        sockets[i].write(d);
+        //sockets[i].write(d);
       }
     }
 
+
     mensaje = d.toString('utf8');//buffer es el d
     try {
-      var id = protComunicacion(mensaje, function(resultado) {
+      var id = protComunicacion(mensaje, socket, function(resultado) {
         socket.write(resultado + "\r\n");
       });
     } catch (e) {
-      socket.write("mensaje invalido, error\r\n");
+      socket.write("mensaje invalido, error \r\n");
     }
+
 
   });
 
@@ -106,7 +125,14 @@ var s = net.Server(function(socket) {
 
     var i = sockets.indexOf(socket);
 
-    sockets.split(i, 1);
+    try {
+      sockets.split(i, 1);
+
+
+    } catch (e) {
+
+      Bitacora("No más clientes accesando")
+    }
 
 
   });
