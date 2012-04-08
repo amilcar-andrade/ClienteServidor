@@ -114,7 +114,7 @@
       <div class="span5">
         <h2>Registro de cursos</h2>
         <hr>
-        <form method="post"  action="/registro">
+        <form method="get"  action="/registro">
 
           <input class="large " name="matricula" size="12" type="text"/>
                   <span class="help-block">
@@ -171,7 +171,7 @@
       <div class="span5">
         <h2>Baja de Cursos</h2>
         <hr>
-        <form method="post"  action="/baja">
+        <form method="get"  action="/baja">
 
           <input class="large " name="id" size="12" type="text"/>
                   <span class="help-block">
@@ -188,7 +188,7 @@
 
         <h3>Consulta tu Curso Especifico</h3>
 
-        <form method="post"  action="/buscar">
+        <form method="get"  action="/buscar">
           <input class="large " name="id" size="12" type="text"/>
                   <span class="help-block">
                     Teclea tu clave unica por curso especifico.
@@ -203,7 +203,7 @@
       <div class="span4">
         <h3>Con&eacute;ctate al servidor</h3>
         <hr>
-        <form method="post" action="/conectar">
+        <form method="get" action="/conectar">
           <input class="large " name="host" size="12" type="text"/>
                   <span class="help-block">
                                  Ingresa el host.

@@ -1,11 +1,9 @@
 //create table cursos (id varchar(255) ,matricula varchar(30), idioma varchar(30), nivel varchar(30), horario varchar(30));
-
 net = require('net');
 var sockets = [];
 var borrar = "Borrar";
 var crear = "Insertar";
 var seleccionar = "Seleccionar";
-var updatear = "Update";
 var mensaje;
 var mysql = require('db-mysql');
 var fs = require("fs");
@@ -17,7 +15,6 @@ function Bitacora(txt) {
   fs.write(file, txt, null);
   console.log(txt);
 }
-
 
 var DB = new mysql.Database({
   hostname: 'localhost',
@@ -42,7 +39,7 @@ function protComunicacion(msj, socket, listo) {
 
   var ArrayMsj = msj.trim().split(',');
   if (ArrayMsj[0].toString() == borrar) {
-    var sql2 = "DELETE FROM curso WHERE (id = '" + ArrayMsj[1] + "')";
+    var sql2 = "DELETE FROM cursos WHERE (id = '" + ArrayMsj[1] + "')";
     Bitacora(direccion_port + sql2)
     conn.query(sql2).execute(function(error) {
 
@@ -60,7 +57,7 @@ function protComunicacion(msj, socket, listo) {
   if (ArrayMsj[0].toString() == crear) {
     var id = parseInt(1000000 * Math.random());
 
-    var sql = "INSERT INTO curso VALUES ('" + id + "','" + ArrayMsj[1] + "','" + ArrayMsj[2] + "','" + ArrayMsj[3] + "','" + ArrayMsj[4] + "')";
+    var sql = "INSERT INTO cursos VALUES ('" + id + "','" + ArrayMsj[1] + "','" + ArrayMsj[2] + "','" + ArrayMsj[3] + "','" + ArrayMsj[4] + "')";
     Bitacora(direccion_port + sql)
     conn.query(sql).execute(function(error) {
 
@@ -74,7 +71,7 @@ function protComunicacion(msj, socket, listo) {
     return;
   }
   if (ArrayMsj[0].toString() == seleccionar) {
-    var sql3 = "SELECT * FROM curso WHERE (id ='" + ArrayMsj[1] + "')";
+    var sql3 = "SELECT * FROM cursos WHERE (id ='" + ArrayMsj[1] + "')";
     Bitacora(direccion_port + sql3);
     conn.query(sql3).execute(function(error, rows, cols) {
 

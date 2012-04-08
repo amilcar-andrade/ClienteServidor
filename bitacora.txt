@@ -1,4 +1,7 @@
-2012-01-28 20:56:07 -0600 Inicio bitacora 2012-01-28 20:56:07 -0600
-2012-01-28 20:56:15 -0600 127.0.0.19000
-2012-01-28 20:56:18 -0600 mensaje enviado: Insertar,1163951,,,
-2012-01-28 20:56:18 -0600 respuesta recibida: Tu id del registro es  505050
+2012-04-08 12:12:29 -0500 Inicio bitacora 2012-04-08 12:12:29 -0500
+2012-04-08 12:52:28 -0500 127.0.0.18000
+2012-04-08 12:52:35 -0500 mensaje enviado: Insertar,1163951,Ingles,2,10
+2012-04-08 12:52:35 -0500 respuesta recibida: Tu id del registro es  66109
+2012-04-08 12:53:53 -0500 127.0.0.18000
+2012-04-08 12:54:02 -0500 mensaje enviado: Insertar,A011639,,,
+2012-04-08 12:54:02 -0500 respuesta recibida: Tu id del registro es  865037

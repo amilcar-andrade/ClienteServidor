@@ -19,7 +19,7 @@ end
 bitacora "Inicio bitacora #{Time.now}"
 
 
-post'/conectar' do
+get'/conectar' do
   host =params[:host]
   port =params[:port]
   s = TCPSocket.open host, port
@@ -28,25 +28,25 @@ post'/conectar' do
 end
 
 
-post '/registro' do
+get '/registro' do
   mensaje = "Insertar,#{params[:matricula]},#{params[:idioma]},#{params[:nivel]},#{params[:horario]}"
   s.puts mensaje
   @estado = "success"
 
   bitacora("mensaje enviado: " + mensaje)
-  mensaje_recivido = @result = s.gets
-  bitacora("respuesta recibida: " + mensaje_recivido)
+  mensaje_recibido = @result = s.gets
+  bitacora("respuesta recibida: " + mensaje_recibido)
   erb :layout
 
 end
 
-post '/buscar' do
+get '/buscar' do
   mensaje = "Seleccionar,#{params[:id]}"
   s.puts mensaje
   bitacora("mensaje enviado: " + mensaje)
 
-  mensaje_recivido = @result = s.gets
-  bitacora("respuesta recibida: " + mensaje_recivido)
+  mensaje_recibido = @result = s.gets
+  bitacora("respuesta recibida: " + mensaje_recibido)
 
   @estado = "success"
 
@@ -54,14 +54,14 @@ post '/buscar' do
 end
 
 
-post '/baja' do
+get '/baja' do
   mensaje = "Borrar,#{params[:id]}"
   bitacora("mensaje enviado: " + mensaje)
 
   s.puts mensaje
 
-  mensaje_recivido = @result = s.gets
-  bitacora("respuesta recibida: " + mensaje_recivido)
+  mensaje_recibido = @result = s.gets
+  bitacora("respuesta recibida: " + mensaje_recibido)
 
   @estado = "success"
   erb :layout
