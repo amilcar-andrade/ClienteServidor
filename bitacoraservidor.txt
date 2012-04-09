@@ -1,4 +1,4 @@
-Sun Apr 08 2012 12:52:35 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 58850INSERT INTO cursos VALUES ('66109','1163951','Ingles','2','10')
-Sun Apr 08 2012 12:52:35 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 58850 insert
-Sun Apr 08 2012 12:54:02 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 58905INSERT INTO cursos VALUES ('865037','A011639','','','')
-Sun Apr 08 2012 12:54:02 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 58905 insert
+Sun Apr 08 2012 22:21:06 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 52556INSERT INTO cursos VALUES ('34472','9727272','Ingles','1','10')
+Sun Apr 08 2012 22:21:06 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 52556 insert
+Sun Apr 08 2012 22:21:29 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 52556INSERT INTO cursos VALUES ('796735','998911','Italiano','2','11')
+Sun Apr 08 2012 22:21:29 GMT-0500 (CDT) Direccion Cliente: 127.0.0.1 Puerto Cliente: 52556 insert
