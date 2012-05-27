@@ -1,4 +1,3 @@
-//create table cursos (id varchar(255) ,matricula varchar(30), idioma varchar(30), nivel varchar(30), horario varchar(30));
 net = require('net');
 var sockets = [];
 var borrar = "Borrar";
@@ -139,5 +138,6 @@ var s = net.Server(function(socket) {
 
 
 s.listen(process.argv[2]);
+
 
 

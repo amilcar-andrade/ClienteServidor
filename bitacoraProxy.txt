@@ -1,0 +1,6 @@
+Fecha: 2012-04-11 HORARIO ORIGINAL: Alumno A01163951 se registro en Chino 1 en el horario de las 10am , ID unica = 976859
+Fecha: 2012-04-11 HORARIO CAMBIADO: Alumno ' ' se registro en ' ' ' ' en el horario de las ' 'am , ID unica = 976859
+Fecha: 2012-04-11 Alumno 32323 se registro en Ingles 2 en el horario de las 10am , ID unica = 297900
+Fecha: 2012-04-11 HORARIO ORIGINAL: Alumno A01163951 se registro en Ingles 2 en el horario de las 12am , ID unica = 237294
+Fecha: 2012-04-11 HORARIO CAMBIADO: Alumno ' ' se registro en ' ' ' ' en el horario de las ' 'am , ID unica = 237294
+Fecha: 2012-04-11 Alumno 12342232 se registro en Ingles 1 en el horario de las 10am , ID unica = 521830
